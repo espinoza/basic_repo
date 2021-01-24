@@ -1,1 +1,1 @@
-Este es otro archivo de ejemplo para utilizar funciones básicas de git y GitHub
+Este es otro archivo de ejemplo para aprender lo básico de git y GitHub
